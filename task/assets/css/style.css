@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    height: 10vh;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+}
+.logo{
+    height: 30px;
+    padding: 2px 10px;
+}
+.navbar-nav{
+     padding-right:0px;
+}
+.icon-bar{
+    background: darkorange;
+}
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position:absolute;
+    bottom: 30px;
+    left: 50px;
+    background-color:black;
+    color: white;
+    padding-left: 50px;
+    padding-right: 100px;
+    width: 450px;
+  }
+#divtag{
+    padding: 0px 0px 0px 90px;
+}
+.btn-primary{
+    background: red;
+} 
+
+.card-deck{
+ width: 30rem;
+}
